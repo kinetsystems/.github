@@ -7,8 +7,8 @@ Kinet Systems is a software development company based in Ethiopia, focused on bu
 ## About Us
 
 - **Founded:** 2025  
-- **Website:** [https://kinet.et](https://kinet.et)  
-- **Email:** [contact@kinet.et](mailto:contact@kinet.et)  
+- **Website:** [https://kinet.et](https://www.kinet.et)  
+- **Email:** [contact@kinet.et](mailto:info@kinet.et)  
 - **Headquarters:** Addis Ababa, Ethiopia  
 
 We specialize in:
@@ -53,8 +53,8 @@ Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidel
 ## Connect with Us
 
 - [LinkedIn](https://www.linkedin.com/company/kinet-systems)  
-- [Website](https://kinet.et)  
-- [Email](mailto:contact@kinet.et)  
+- [Website](https://www.kinet.et)  
+- [Email](mailto:info@kinet.et)  
 
 Thank you for exploring our projects and supporting open-source innovation in Ethiopia and beyond!  
 
