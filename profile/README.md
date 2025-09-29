@@ -1,6 +1,6 @@
 <div align="center">
   
-![Kinet Systems Banner](https://github.com/afridevelopers/.github/assets/images/banner.png)
+![Kinet Systems Banner](../assets/images/banner.png)
 
 </div>
 
