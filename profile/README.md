@@ -1,3 +1,10 @@
+<div align="center">
+  
+![Kinet Systems Banner](https://github.com/afridevelopers/.github/assets/images/banner.png)
+
+</div>
+
+
 # Welcome to Kinet Systems
 
 Kinet Systems is a software development company based in Ethiopia, focused on building innovative solutions that extend and enhance open-source platforms. Our mission is to provide reliable, scalable, and high-quality software for businesses, schools, and enterprises.
