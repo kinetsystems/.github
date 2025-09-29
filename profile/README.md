@@ -26,23 +26,6 @@ Kinet Systems is a software development company based in Ethiopia, focused on bu
 
 ---
 
-## Our GitHub Organization
-
-This GitHub organization hosts our projects, libraries, tools, and contributions to open-source software. Here you will find:
-
-- **ERPNext and Frappe Extensions** - Custom modules and integrations for business process automation
-- **Flutter and Dart Applications** - Cross-platform mobile and desktop solutions
-- **Open-source Utilities and Frameworks** - Developer tools and reusable components
-
-We follow best practices in software development, including:
-
-- 📚 Clear documentation and API references
-- 🔧 Modular and extensible code architecture
-- 🧪 Comprehensive testing and CI/CD pipelines
-- 🌍 Internationalization and accessibility support  
-
----
-
 ## How to Contribute
 
 We welcome contributions from developers worldwide! Here's how to get involved:
