@@ -4,8 +4,15 @@
 
 </div>
 
+<div align="center">
 
-# Welcome to Kinet Systems
+<p>
+    <a href="https://www.linkedin.com/company/kinet-systems/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+    </a>
+</p>
+
+</div>
 
 Kinet Systems is a software development company based in Ethiopia, focused on building innovative solutions that extend and enhance open-source platforms. Our mission is to provide reliable, scalable, and high-quality software for businesses, schools, and enterprises.
 
